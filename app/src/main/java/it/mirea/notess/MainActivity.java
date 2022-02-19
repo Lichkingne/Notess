@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
         if(set == null)
         {
-            notes.add("тестовая заметка");
+            notes.add("здрасте");
         }
 
         else
